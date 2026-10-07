@@ -209,6 +209,11 @@ React, Vite, Leaflet, react-leaflet, Axios
 
 **MongoDB connection error** — Check that the MongoDB service is running and the connection string is correct.
 
+## Authors
+
+- Talha Yılmaz ([@TalhaYLMZ11](https://github.com/TalhaYLMZ11))
+- Kaan Ünlü ([@Kaanunlu7741](https://github.com/Kaanunlu7741))
+
 ## Notes
 
 The user interface and the collected content are in Turkish, as the project targets Turkish local news sources. The location extraction step is built specifically around Turkish place names and their inflected forms.

@@ -209,6 +209,11 @@ React, Vite, Leaflet, react-leaflet, Axios
 
 **MongoDB bağlantı hatası** — MongoDB servisi çalışıyor mu ve bağlantı adresi doğru mu kontrol et.
 
+## Geliştiriciler
+
+- Talha Yılmaz ([@TalhaYLMZ11](https://github.com/TalhaYLMZ11))
+- Kaan Ünlü ([@Kaanunlu7741](https://github.com/Kaanunlu7741))
+
 ## Not
 
 Bu proje eğitim amaçlı geliştirilmiştir. Haber içerikleri ilgili haber sitelerine aittir ve uygulama içinde kaynak bağlantılarıyla birlikte gösterilir.
